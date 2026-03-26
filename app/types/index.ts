@@ -37,7 +37,7 @@ export type RootLayoutProps = Readonly<{
 
 export type ModelsPageProps = {
     searchParams: {
-        q?: string
+        query?: string
     }
 }
 
